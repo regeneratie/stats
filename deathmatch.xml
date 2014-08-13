@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qstat>
+	<server type="Q2S" address="212.116.37.42:27910" status="UP">
+		<hostname>212.116.37.42:27910</hostname>
+		<name>Pelitutka AQ2 1</name>
+		<gametype>action</gametype>
+		<map>aboveclouds</map>
+		<numplayers>7</numplayers>
+		<maxplayers>12</maxplayers>
+		<ping>58</ping>
+		<retries>0</retries>
+		<players>
+			<player>
+				<name>Puls</name>
+				<score>4</score>
+				<ping>56</ping>
+			</player>
+			<player>
+				<name>wincent</name>
+				<score>6</score>
+				<ping>24</ping>
+			</player>
+			<player>
+				<name>Balder</name>
+				<score>12</score>
+				<ping>38</ping>
+			</player>
+			<player>
+				<name>Hearted</name>
+				<score>9</score>
+				<ping>16</ping>
+			</player>
+			<player>
+				<name>xeqt</name>
+				<score>6</score>
+				<ping>36</ping>
+			</player>
+			<player>
+				<name>Twz</name>
+				<score>10</score>
+				<ping>40</ping>
+			</player>
+			<player>
+				<name>prins_harry</name>
+				<score>1</score>
+				<ping>98</ping>
+			</player>
+		</players>
+	</server>
+</qstat>
